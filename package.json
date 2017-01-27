@@ -1,0 +1,25 @@
+{
+  "name": "ipmet-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltiaunesp/ipmet-server.git"
+  },
+  "author": "LTIA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltiaunesp/ipmet-server/issues"
+  },
+  "homepage": "https://github.com/ltiaunesp/ipmet-server#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.8"
+  }
+}
